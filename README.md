@@ -53,3 +53,5 @@ yarn start
 ## Deploy
 
 You can deploy this to heroku or whatever VPS you want, just don't forget to supply the environmental variables.
+
+For scheduled REST call, you can use cron job in your VPS. But I personally use https://cron-job.org/en/
